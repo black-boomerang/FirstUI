@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="date_text" translatable="false">2019.09.19</string>
+    <string name="image_content">Image</string>
+    <string name="textview_content" translatable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et metus ut tortor faucibus porta. Proin vehicula luctus nulla et posuere. Fusce luctus est turpis, eu eleifend sem faucibus vitae. Fusce sit amet nulla interdum, euismod erat vitae, porttitor urna. Nullam lobortis ante quis velit condimentum luctus. Praesent tincidunt dignissim tortor at condimentum. Nunc feugiat mollis libero id finibus. Donec ultricies velit vel accumsan dictum.  Integer augue augue, ullamcorper vel nulla ut, placerat rhoncus velit. Integer interdum ut justo id ornare. Aenean volutpat pulvinar quam, placerat rutrum ex pulvinar eget. Aliquam erat volutpat. Nullam in tempor arcu. Praesent dui magna, euismod eget suscipit vitae, dignissim vitae erat. Maecenas malesuada diam lobortis, interdum neque aliquam, ultricies turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</string>
+</resources>
