@@ -2,6 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/backgroundPrimary"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".DetailContentActivity"
@@ -13,6 +14,7 @@
         android:layout_height="match_parent"
         android:layout_weight="4"
         android:layout_margin="@dimen/detailContentMargin"
+        android:contentDescription="@string/image_content"
         android:scaleType="fitCenter"
         app:srcCompat="@drawable/cappuccino" />
 
